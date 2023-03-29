@@ -62,4 +62,10 @@ To predict some data type this:
   python3 predict.py -t {path/to/your/data.csv} -m {path/to/your/model.model}
 ```
 
+In this case you can also ask for help:
+
+```bash
+  python3 predict.py -h
+```
+
 Enjoy results!
