@@ -1,6 +1,6 @@
 # Machine Learning Perceptron
 
-## Microcomputer part
+## Introduction
 
 The objective of this project is to better understand the fundamentals of machine learning by implementing a simple neural network called the Perceptron from scratch. The project will involve developing a basic Perceptron algorithm using Python without using any pre-built machine learning packages. By building the Perceptron from scratch, we will gain a deeper understanding of the core principles behind machine learning, such as how data is transformed into useful features, how weights are updated during training, and how a model makes predictions.
 
