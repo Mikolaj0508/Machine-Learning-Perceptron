@@ -56,7 +56,7 @@ Train file has several option to customize your model such as activation functio
 
 It will create model file in your directory, which contains hyperparameters of your model. Also .png file will be created to show you how good your model is.
 
-To predict some data type this:
+To predict some data, type this:
 
 ```bash
   python3 predict.py -t {path/to/your/data.csv} -m {path/to/your/model.model}
